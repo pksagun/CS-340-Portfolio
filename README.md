@@ -1,4 +1,4 @@
-# CS-340
+# CS-340 Portfolio
 Project Two Portfolio Reflection
 
 1. How do you write programs that are maintainable, readable, and adaptable?
